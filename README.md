@@ -1,12 +1,9 @@
-# Hi there 👋 I'm Divya
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff9a9e,100:fad0c4&section=footer&text=Divya&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20%7C%20IT%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=75&descSize=16" />
 
-💻 Aspiring Software Developer  
-🌱 Currently learning Web Development & Python  
-🚀 Improving my coding and problem-solving skills  
-🎯 Goal: Become a skilled software engineer  
 
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divya-v-79a89632b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyavaradharaj2205@gmail.com) 
 
 # 💻 Tech Stack:
